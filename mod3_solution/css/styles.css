@@ -1,0 +1,125 @@
+
+body{
+	 font-size: 16px;
+  color: #35403D;
+  background-color:#9CC6BC;
+  width: 100%;
+}
+
+  *{
+	box-sizing: border-box;
+}
+}
+/** HEADER **/
+.container{
+	width: 100%;
+	margin: 0 0 0 0;
+	position: relative;
+	padding: 0 0 0 0
+}
+#header-nav {
+  background-color: #BE9CC6;
+  border-radius: 0;
+  border: 0;
+  margin: 0 0 0 0 ;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  margin-left: 0;
+}
+.navbar-brand h1 { 
+  color: #9CC6BC;
+  font-size: 1.7em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .60;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#collapsable-nav {
+	background-color: #A5E887;
+	margin-top: 0;
+	margin-bottom: 0px;
+}
+
+#chicken{
+	border-top: .5px solid black;
+	border-left: .5px solid black;
+	border-right: .5px solid black;
+	border-color: #4D5D59
+}
+
+#beef{
+	border-top: .5px solid black;
+	border-left: .5px solid black;
+	border-right: .5px solid black;
+	border-color: #4D5D59 
+	
+}
+
+#turkey{
+	border-top: .5px solid black;
+	border-left: .5px solid black;
+	border-right: .5px solid black;
+	border-bottom: .5px solid black;
+	border-color: #4D5D59
+
+}
+
+#nav-list{
+	font-size: 1.3em;
+	font-weight: bold;
+		margin-bottom: 0px;
+		margin-top: -.5px;
+		border: .5px;
+
+
+}
+
+li a{
+	color: #4D5D59;
+	text-decoration: none;
+}
+
+
+/** END HEADER **/
+#heading{
+	font-size: 1.6em;
+	color: #BE9CC6 ;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222
+}
+	h2{
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.4em;
+}
+
+#content {
+	background-color: #A5E887;
+	padding: 2px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px ;
+	height: 1000px;
+	text-align: none;
+		}
+
+
+
+
+
+
+
